@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.300ab39e.chunk.css",
+    "main.js": "/static/js/main.8274557c.chunk.js",
+    "main.js.map": "/static/js/main.8274557c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bd6fdde7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bd6fdde7.js.map",
+    "static/js/2.c5678248.chunk.js": "/static/js/2.c5678248.chunk.js",
+    "static/js/2.c5678248.chunk.js.map": "/static/js/2.c5678248.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.300ab39e.chunk.css.map": "/static/css/main.300ab39e.chunk.css.map",
+    "static/js/2.c5678248.chunk.js.LICENSE.txt": "/static/js/2.c5678248.chunk.js.LICENSE.txt",
+    "static/media/Github.cba0b7a5.png": "/static/media/Github.cba0b7a5.png",
+    "static/media/Instagram.bb9b184f.png": "/static/media/Instagram.bb9b184f.png",
+    "static/media/Post.4011dae1.png": "/static/media/Post.4011dae1.png",
+    "static/media/chat.339a875a.svg": "/static/media/chat.339a875a.svg",
+    "static/media/explor.751ac1a8.svg": "/static/media/explor.751ac1a8.svg",
+    "static/media/google.033686de.png": "/static/media/google.033686de.png",
+    "static/media/grid.128a2d7d.svg": "/static/media/grid.128a2d7d.svg",
+    "static/media/heart.cd2a3886.svg": "/static/media/heart.cd2a3886.svg",
+    "static/media/home.9567d2f9.svg": "/static/media/home.9567d2f9.svg",
+    "static/media/inbox.d222bb94.svg": "/static/media/inbox.d222bb94.svg",
+    "static/media/linkedin.263b5ef2.png": "/static/media/linkedin.263b5ef2.png",
+    "static/media/loading.18d201ec.gif": "/static/media/loading.18d201ec.gif",
+    "static/media/message.cfd459f6.png": "/static/media/message.cfd459f6.png",
+    "static/media/page.fb326a4d.png": "/static/media/page.fb326a4d.png",
+    "static/media/profile.f7dceabb.svg": "/static/media/profile.f7dceabb.svg",
+    "static/media/saved.b84c5c55.svg": "/static/media/saved.b84c5c55.svg",
+    "static/media/settings.6070868e.svg": "/static/media/settings.6070868e.svg",
+    "static/media/signature.80e880f9.png": "/static/media/signature.80e880f9.png",
+    "static/media/smile.19e398ae.svg": "/static/media/smile.19e398ae.svg",
+    "static/media/switch.0bac2017.svg": "/static/media/switch.0bac2017.svg",
+    "static/media/tagged.8f12f638.svg": "/static/media/tagged.8f12f638.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd6fdde7.js",
+    "static/js/2.c5678248.chunk.js",
+    "static/css/main.300ab39e.chunk.css",
+    "static/js/main.8274557c.chunk.js"
+  ]
+}
